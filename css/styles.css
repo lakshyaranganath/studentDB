@@ -1,0 +1,14 @@
+body {
+  background-color: #eeeeee;
+  padding: 4% 0;
+}
+
+.panel {
+  padding: 10px;
+}
+
+.page-link {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
